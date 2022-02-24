@@ -1,0 +1,10 @@
+[alias]
+    st = status
+    ss = st --short
+    egc = config --global -e
+    ele = config --local -e
+    esc = config --system -e
+    co = checkout
+    br  = branch
+    ci = commit
+    amend = co -a --amend
